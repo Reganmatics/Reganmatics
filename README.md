@@ -1,8 +1,7 @@
-- `Python`, `C`, `bash`
 - 👋 Hi, I’m @Reganmatics :sunglasses:
-- 👀 I’m interested in ...Python related projects particularly those related to scientific computing
-- 🌱 I’m currently learning ...Scientific computing with Python
-- 💞️ I’m looking to collaborate on Data Science and Machine learning Projects
+- 👀 I’m interested in ...Data Science (`ML`)
+- 🌱 I’m currently learning ...`Python`, `C`, `bash`
+- 💞️ I’m looking to collaborate on Data Science projects `(ML to be precise)`.
 - 📫 How to reach me ...`devreganmatics@gmail.com`
 
 <!---
