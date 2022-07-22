@@ -11,6 +11,5 @@ You can click the Preview link to take a look at your changes.
 <!---
 ![GitHub Views](https://komarev.com/ghpvc/?username=Reganmatics) <br>
 --->
-`views`:
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <br>
+- `views`: ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Reganmatics&show_icons=true&theme=radical)
