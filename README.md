@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Reganmatics&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reganmatics&hide=html)](https://github.com/Reganmatics/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reganmatics&hide=html&layout=compact)](https://github.com/Reganmatics/github-readme-stats)
